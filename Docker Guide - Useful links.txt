@@ -1,0 +1,9 @@
+Installing Rancher on a Single Node using Docker
+
+https://rancher.com/docs/rancher/v2.5/en/installation/other-installation-methods/single-node-docker/
+
+
+Join my slack workspace!
+https://join.slack.com/t/microservices-k8s/shared_invite/zt-tknw22gm-3zG8AW87Lm1~ZBmScdniYg
+
+
